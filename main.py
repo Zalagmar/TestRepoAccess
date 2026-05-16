@@ -1,1 +1,1 @@
-ITG = 1
+param_for_test = 1
