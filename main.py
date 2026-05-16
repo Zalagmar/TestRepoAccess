@@ -1,1 +1,1 @@
-param_for_test = 100
+param_for_test = 88
